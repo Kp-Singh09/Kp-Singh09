@@ -13,8 +13,8 @@ Portfolio Link : https://portfolio-kp-singh.vercel.app/
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Kp-Singh09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kp-Singh09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kp-Singh09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://komarev.com/ghpvc/?username=Kp-Singh09&color=orange)
 </div>
 
 ### ✍️ Random Dev Quote
