@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Karanpreet Singh <br>
-Portfolio Link : https://portfolio-kp-singh.vercel.app/
+<!--Portfolio Link : https://portfolio-kp-singh.vercel.app/-->
 
 
 ## 🌐 Socials:
